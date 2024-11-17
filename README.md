@@ -16,4 +16,7 @@ Press the insert key to show/hide the menu.
 The menu is simple, there are lots of script modules already added into the menu, such as aimbot, jetpack, no-clip, and skin swappers. 
 Although, if you want to add your own scripts, click the "Add script" button. The scripts should be in C++ or C#.
 
-![image](https://github.com/user-attachments/assets/a67fea8b-2cdc-4b9a-ae79-5d770e8dc6bf)
+![image](https://github.com/user-attachments/assets/b35e7aa2-75e1-4397-99ba-2793d631f558)
+
+# Have Fun!!!
+<3
